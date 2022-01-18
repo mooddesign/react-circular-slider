@@ -1,3 +1,11 @@
+# WIP
+Personal fork from the excellent react-circular-slider
+
+## Probable upcoming additions:
+# Scale labels
+# Display only mode
+# Additional props
+
 # react-circular-slider
 
 ![](https://img.shields.io/badge/version-2.2.4-green.svg) ![](https://img.shields.io/badge/license-MIT-blue.svg)
