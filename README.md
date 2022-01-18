@@ -2,9 +2,9 @@
 Personal fork from the excellent react-circular-slider
 
 ## Probable upcoming additions:
-# Scale labels
-# Display only mode
-# Additional props
+* Scale labels
+* Display only mode
+* Additional props
 
 # react-circular-slider
 
